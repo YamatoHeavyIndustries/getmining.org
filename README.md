@@ -2,7 +2,7 @@
 
 Cryptomining made simple
 
-### Download
+### Get Started
 
-[### Download](https://github.com/YamatoHeavyIndustries/getmining.org/releases)
+[Downloads](https://github.com/YamatoHeavyIndustries/getmining.org/releases)
 
